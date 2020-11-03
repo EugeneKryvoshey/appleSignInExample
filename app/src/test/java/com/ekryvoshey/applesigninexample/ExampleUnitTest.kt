@@ -1,4 +1,4 @@
-package com.artygeekapps.applesigninexample
+package com.ekryvoshey.applesigninexample
 
 import org.junit.Test
 
